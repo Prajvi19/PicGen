@@ -1,4 +1,5 @@
-AI Image Generation App
+PicGen
+
 The AI Image Generation App is a powerful tool that utilizes artificial intelligence algorithms to generate stunning and unique images. This app leverages state-of-the-art deep learning models to create visually appealing artwork, landscapes, abstract compositions, and much more. Whether you're an artist, designer, or simply someone who enjoys exploring creative possibilities, this app opens up a world of endless image generation possibilities.
 
 Features
